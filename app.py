@@ -8,5 +8,5 @@ def fetch_page():
 
 
 if __name__ == "__mani__":
-    page_content = fetch_page(url)
+    page_content = fetch_page()
     print(page_content)
